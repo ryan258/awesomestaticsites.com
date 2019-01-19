@@ -11,9 +11,9 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "Ryan Johnson"
+    site_description = "The groovy blog of Ryan Johnson."
+    location = "Arkansas"
     # Link custom assets relative to /static
     avatar = "img/hugo-logo.png"
     header_background = "img/coffee.jpg"
